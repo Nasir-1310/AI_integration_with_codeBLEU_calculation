@@ -1,0 +1,1 @@
+print("I am functioning as a code generator, ready to assist you.")
